@@ -1,1 +1,1 @@
-# generator-joomla-template" 
+# generator-joomla-template
