@@ -1,5 +1,5 @@
 const Generator = require('yeoman-generator');
-const chalk = require('chalk-animation');
+const chalk = require('chalk');
 
 
 module.exports = class extends Generator {
@@ -67,6 +67,6 @@ module.exports = class extends Generator {
     }
 
     end() {
-        this.log(chalk.rainbow("All done!"));
+        this.log(chalk.yellow("All done!"));
     }
 };
