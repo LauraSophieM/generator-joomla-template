@@ -1,0 +1,14 @@
+{
+  "name": "generator-joomla-template",
+  "version": "1.0.1",
+  "description": "A not yet complete joomla-template generator to speed up your workflow...",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  }
+}
