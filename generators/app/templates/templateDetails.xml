@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="template" client="site" method="upgrade">
+	<name><%= templateName %></name>
+	<creationDate>Creation Date</creationDate>
+	<author>Author's name</author>
+	<authorEmail>author@mail.com</authorEmail>
+	<authorUrl>http://www.author-url.de</authorUrl>
+	<copyright>Copyright</copyright>
+	<license>Template license</license>
+	<version>0.0.1</version>
+	<description>Template description</description>
+
+	<files>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>javascript</folder>
+		<folder>language</folder>
+		<filename>templateDetails.xml</filename>
+        <filename>index.php</filename>
+        <filename>offline.php</filename>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+	</files>
+
+	<positions>
+	</positions>
+
+    <!-- optional -->
+	<!-- <languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.tpl_<%= templateName_ %>.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_<%= templateName_ %>.sys.ini</language>
+	</languages> -->
+
+</extension>

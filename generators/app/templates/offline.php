@@ -7,8 +7,6 @@
     <jdoc:include type="head" />
 </head>
 <body>
-    <!-- <jdoc:include type="module" name="breadcrumbs" title="Breadcrumbs" /> -->
-
-    <jdoc:include type="component" />
+    
 </body>
 </html>
