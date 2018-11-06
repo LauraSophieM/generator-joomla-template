@@ -1,3 +1,14 @@
 # generator-joomla-template
 
-## not ready for use yet !!
+## Ready for use now!! 👍👍👍👍
+
+```
+npm i -g generator-joomla-template
+```
+aaaaaaaaaaaaaaaand (inside the final directory)
+
+```
+yo joomla-template
+```
+
+Here you go;*
