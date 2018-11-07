@@ -1,7 +1,7 @@
 {
   "name": "generator-joomla-template",
   "version": "1.0.7",
-  "description": "A not yet complete joomla-template generator to speed up your workflow...",
+  "description": "A simple joomla-template generator to speed up your workflow...",
   "keywords": [
     "yeoman-generator"
   ],
