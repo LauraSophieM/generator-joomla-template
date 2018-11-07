@@ -3,7 +3,12 @@
   "version": "1.0.8",
   "description": "A simple joomla-template generator to speed up your workflow...",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "joomla",
+    "template",
+    "joomla-template",
+    "workflow",
+    "generator"
   ],
   "homepage": "http://www.laura-codes.com/projects/joomla-generator",
   "bugs": {
